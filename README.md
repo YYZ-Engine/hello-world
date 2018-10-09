@@ -35,6 +35,6 @@ Check the available commands with `npm run` on package.json.
 To run the enviornment with [Docker](https://docs.docker.com/), install Docker, and then execute the following commands on the project root:
 
 ```
-docker build --pull -t yyz-engine/hello_world:latest .
-docker run yyz-engine/hello_world
+docker build --pull -t hello-world:latest .
+docker run hello-world
 ```
