@@ -1,6 +1,6 @@
 # YYZ-Engine Hello World 
-[![Build Status](https://travis-ci.org/YYZ-Engine/yyz-engine.svg?branch=master)](https://travis-ci.org/YYZ-Engine/yyz-engine)
-[![Coverage Status](https://coveralls.io/repos/github/zpallin/yyz-engine/badge.svg?branch=master)](https://coveralls.io/github/zpallin/yyz-engine?branch=master)
+[![Build Status](https://travis-ci.org/YYZ-Engine/hello-world.svg?branch=master)](https://travis-ci.org/YYZ-Engine/hello-world)
+[![Coverage Status](https://coveralls.io/repos/github/yyz-engine/hello-world/badge.svg?branch=master)](https://coveralls.io/github/yyz-engine/hello-world?branch=master)
 
 YYZ-Engine Hello World is a NodeJS Express React app for people to use and get a custom greeting based on local time and day, or get a country based on their location.
 
@@ -10,13 +10,15 @@ YYZ-Engine Hello World is a NodeJS Express React app for people to use and get a
 
 ## API Routes: 
 * [http://localhost:5000/api/hello](Hello) returns a greeting based on the local machine
-* [http://localhost:5000/api/hello/monday](Hello/[day of the week]) returns a greeting based on the local machine
+* [http://localhost:5000/api/hello/monday](Hello/weekday) returns a greeting based on the local machine
 * [http://localhost:5000/api/world](World) returns user's countryy
 
 ## Tools:
 * NodeJS
 * Express
 * React
+* Jasmine
+* Jest
 
 ## To run this with npm:
 To start up the application, complete the following steps:
