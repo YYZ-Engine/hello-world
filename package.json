@@ -36,14 +36,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zpallin/yyz-engine.git"
+    "url": "git+https://github.com/yyz-engine/hello-world.git"
   },
   "keywords": [
     "NodeJS",
     "Express"
   ],
   "bugs": {
-    "url": "https://github.com/zpallin/yyz-engine/issues"
+    "url": "https://github.com/yyz-engine/hello-world/issues"
   },
-  "homepage": "https://github.com/zpallin/yyz-engine#readme"
+  "homepage": "https://github.com/yyz-engine/hello-world#readme"
 }
