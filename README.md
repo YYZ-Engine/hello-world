@@ -1,6 +1,6 @@
 # YYZ-Engine Hello World 
 [![Build Status](https://travis-ci.org/YYZ-Engine/hello-world.svg?branch=master)](https://travis-ci.org/YYZ-Engine/hello-world)
-[![Coverage Status](https://coveralls.io/repos/github/yyz-engine/hello-world/badge.svg?branch=master)](https://coveralls.io/github/yyz-engine/hello-world?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/YYZ-Engine/hello-world/badge.svg?branch=master)](https://coveralls.io/github/YYZ-Engine/hello-world?branch=master)
 
 YYZ-Engine Hello World is a NodeJS Express React app for people to use and get a custom greeting based on local time and day, or get a country based on their location.
 
